@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"dani:3"
+	],
+	"copyright": "Copyright © 2024, dani:3",
+	"dependencies": {
+		"libusb-d": "~>0.1.1"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "getguid"
+}
